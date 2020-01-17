@@ -41,6 +41,13 @@ export class PizzaserviceService {
     "pizza_type":"large",
     "type":"Veg"
   },
+  {
+    "Name": "Chicken Delight Pizza",
+    "price": "900",
+    "pizza_base": "normal",
+    "pizza_type":"large",
+    "type":"Non Veg"
+  },
 ]
 ;
   constructor() { }
